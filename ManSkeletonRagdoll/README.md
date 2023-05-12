@@ -1,0 +1,1 @@
+I tried to simulate a ragdoll but, I did not go that well. Although rigging works just fine, constraints does not.
